@@ -15,7 +15,7 @@ PickerView (2.x系列)
 ## Demo 图片
 ![](https://github.com/Gyueqi/gti_c/blob/master/preview/pickerdemo.gif)
 
-- [demo代码请看戳这里](https://github.com/Gyueqi/gti_c/blob/master/Android-PickerView-master/app/src/androidTest/java/com/bigkoo/pickerviewdemo/ApplicationTest.java)
+
 
 
 >## 更新说明
