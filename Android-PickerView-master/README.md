@@ -65,7 +65,7 @@ PickerView1.x (我已经把1.0.3版本分到v1.x的分支去了，停止维护1.
 
 ## Demo 图片（招行信用卡的“掌上生活”里面条件选择器他们用的就是我这个库，大家可以当实际项目参考）
 ![](https://github.com/Gyueqi/gti_c/blob/master/Android-PickerView-master/preview/pickerdemo1x.gif)
-![](https://github.com/Gyueqi/gti_c/blob/master/Android-PickerView-master/preview/pickerdemo1x.gif)
+![](https://github.com/Gyueqi/gti_c/Android-PickerView-master/preview/pickerdemo_zhangshangshenghuo.gif)
 
 
 ## Thanks
