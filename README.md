@@ -54,10 +54,6 @@ PickerView (2.x系列)
  - 加入pickerview_customTextSize 和 pickerview_textsize 到 xml 中 来控制自定义文字大小<br />
 
 -－－－－－－－－－－－－－－－－－－－－华丽丽的分割线－－－－－－－－－－－－－－－－－－－－－－－－－－
-
-PickerView1.x (我已经把1.0.3版本分到v1.x的分支去了，停止维护1.x的分支)
-==========
-
 ####使用gradle 依赖:
 ```java
    compile 'com.bigkoo:pickerview:1.0.3'
